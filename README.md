@@ -1,6 +1,4 @@
-\# Gitチュートリアル
+# Gitチュートリアル
 
-
-
-&#x20;- feature-A
-
+ - feature-A
+ - fix-B
